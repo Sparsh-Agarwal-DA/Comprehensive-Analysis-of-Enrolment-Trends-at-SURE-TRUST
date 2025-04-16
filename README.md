@@ -20,7 +20,7 @@ Executive Summary
 2.	Steps	
 3.	Narratives	
 4.	Metrics	
-5.	Key Takeaways:	
+5.	Key Takeaways:
 5.1.	Problems	
 5.2.	Recommendations	
 Introduction:	
